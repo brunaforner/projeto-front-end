@@ -1,7 +1,7 @@
 const Rodape = function() {
     return (
         <footer>
-            <p>Desenvolvido por Eldes</p>
+            <p>Desenvolvido por Bruna</p>
         </footer>
     );
 }

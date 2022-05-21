@@ -1,8 +1,17 @@
 button {
-    background-color: blueviolet;
+    background-color: rgb(110, 4, 4);
     padding: 4px 16px;
     border-style: none;
     color: #fff;
     font-size: 1.2em;
     text-transform: uppercase;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(110, 4, 4);
+    color: #fff;
+    box-shadow: 1.7px 1.7px 1.7px;
+    font-size: 15px;
+    border-radius: 5px;
 }
